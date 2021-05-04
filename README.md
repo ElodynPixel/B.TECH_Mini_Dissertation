@@ -1,2 +1,4 @@
-# B.Tech
-B.Tech Clinical Techology
+# B.Tech - CARPAL TUNNEL SYNDROME
+COMPARATIVE STUDY BETWEEN THE SECOND AND FIFTH DIGIT ANTI-SENSORY VERSUS THE FOURTH DIGIT ANTI-SENSORY STUDY
+
+Here is my Mini Dissertation on Carpal tunnel syndrome
